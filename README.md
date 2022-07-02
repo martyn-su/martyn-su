@@ -1,7 +1,7 @@
 - 👋 Hi, I’m martin
-- 👀 I’m interested in java,python,android,html,css, javascript,c
-- 🌱 I’m currently learning build apps in kotlin and java android
-- 💞️ I’m looking to collaborate on opensource projects especially in web dev, native, and CAD applications 
+- 👀 I’m interested in java, kotlin, python, html, css, javascript, and c
+- 🌱 I’m currently building web (CSS/HTML/JS), desktop (GTK), and mobile apps (Kotlin)
+- 💞️ I’m also looking to collaborate on any cool opensource projects
 - 📫 How to reach me https://twitter.com/martyn_km
 
 <!---
